@@ -1,3 +1,5 @@
+## This repo is now maintaned in https://github.com/andrewinci/Insulator. Please download the latest version the new repo.
+
 <h1 align="center">
   <br>
   <img src="assets/icon.png" alt="Insulator" width="200">
